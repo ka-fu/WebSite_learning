@@ -137,6 +137,11 @@ header .contentWrapper{
   width: 100%;
 }
 
+/*access*/
+#access img {
+  width: 100%;
+}
+
 /* footer */
 #upperfooter {
   margin-top: 50px;
@@ -310,13 +315,14 @@ small {
   }
   #news dd {
     width: 100%;
-  padding-left: 0;
-  margin-left: 0;
+    padding-left: 0;
+    margin-left: 0;
   }
   /* gallery */
   #gallery p {
     font-size: 1rem;
   }
+
   /* footer */
   #upperfooter .contentWrapper,footer nav {
     width: 100%;
